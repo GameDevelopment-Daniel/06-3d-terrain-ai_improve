@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/3-buildings/e-complete-building-with-sliding-door.unity
+    guid: d122fd3fb3f75384f97e5f46fbca25f9
   m_configObjects: {}
